@@ -7,3 +7,8 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+# 왼쪽 사이드바 카테고리 메뉴
+categories:
+  - title: "Daily"
+    url: /categories/daily/
